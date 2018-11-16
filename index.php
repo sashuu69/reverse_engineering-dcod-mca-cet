@@ -113,7 +113,7 @@ if (mysqli_num_rows($result) > 0) {
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Reverse Engineering v2 | DCOD</title>
+		<title>Reverse Engineering v3 | DCOD</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -131,7 +131,7 @@ if (mysqli_num_rows($result) > 0) {
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Reverse Engineering v2.0</span>
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Reverse Engineering v3.0</span>
 								</a>
 
 							<!-- Nav -->
@@ -147,7 +147,7 @@ if (mysqli_num_rows($result) > 0) {
 				<!-- Menu -->
 					<nav id="menu">
 						<h2>INSTRUCTIONS</h2>
-						<p>This is the Reverse Engineering v2.0 in DCOD 2.0 and the last version was a hit, and still uncracked. As versions increase, new methods of security are used. Don't worry, This is not tough as you think.</p>
+						<p>This is the Reverse Engineering v3.0 in DCOD 3.0 and the last version was a hit, and still uncracked. As versions increase, new methods of security are used. Don't worry, This is not tough as you think.</p>
 						<p>Once you are set! Click the close button in the page.</p>
 					</nav>
 
@@ -192,7 +192,7 @@ if (mysqli_num_rows($result) > 0) {
 								</ul>
 							</section>
 							<ul class="copyright">
-								<li>&copy; 2018 <a href="#">DCOD 2.0</a>. All rights reserved</li>
+								<li>&copy; 2018 <a href="#">DCOD 3.0</a>. All rights reserved</li>
 							</ul>
 						</div>
 					</footer>
