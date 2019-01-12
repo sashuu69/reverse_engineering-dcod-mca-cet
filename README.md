@@ -54,3 +54,5 @@ $ sudo systemctl restart apache2
 10. Import the .sql file present in the git repository.
 
 11. Goto localhost/reverse_engineering-dcod-mca-cet to view the site.
+
+I added only ubuntu's detailed installation because, we used Ubuntu for setting up our server. For installing in other OS, refer [this link](https://www.sashwat.in/web/PHP-installation/).
